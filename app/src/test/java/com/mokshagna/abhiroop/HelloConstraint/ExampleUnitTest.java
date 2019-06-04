@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.hellotoast2;
+package com.mokshagna.abhiroop.HelloConstraint;
 
 import org.junit.Test;
 

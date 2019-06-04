@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.hellotoast2;
+package com.mokshagna.abhiroop.HelloConstraint;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.mokshagna.abhiroop.hellotoast2", appContext.getPackageName());
+        assertEquals("com.mokshagna.abhiroop.HelloConstraint", appContext.getPackageName());
     }
 }
